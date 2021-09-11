@@ -16,7 +16,7 @@ export default function Home() {
         pathname: '/[username]',
         query: {username:'ak123'}
       }}>
-        <a>Click karo</a>
+        <a>Arshad oru playgod</a>
       </Link>
     </div>
   )
